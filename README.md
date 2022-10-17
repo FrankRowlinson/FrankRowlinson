@@ -1,5 +1,5 @@
 - 🙋‍ Hi, I’m @FrankRowlinson
-- 🥑 I’m currently learning topics: Git, Django REST Framework, asyncio :^)
+- 🥑 Frontend: React.js | Backend: Django + Django REST / node.js + Express
 - 🐋 [@Highlighted](https://t.me/Highlighted) is my personal telegram account. Use it to contact me day and night
 
 <!---
