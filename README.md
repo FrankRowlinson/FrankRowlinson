@@ -1,7 +1,3 @@
-<p align="left">🙋‍ Hi, I’m Vladislav Smolov a.k.a. @FrankRowlinson<br>🥑 Currenlty looking for: Frontend Developer position (remote/relocation)</p>
-
-###
-
 <p align="left">Tech stack:</p>
 
 ###
